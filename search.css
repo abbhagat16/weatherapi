@@ -1,0 +1,10 @@
+h3, h2{
+    color: rgb(255, 255, 255);
+}
+.card {
+    box-shadow: 2px  2px  grey;
+}
+.textfeild{
+    border: 2px soldi white;
+    background-color: aliceblue;
+}
